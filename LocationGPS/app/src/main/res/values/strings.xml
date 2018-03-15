@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationGPS</string>
+    <string name="spinner_title">Administrador</string>
+    <string name="spinner1_title">Usuarios</string>
+</resources>

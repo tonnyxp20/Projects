@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Routine</string>
+
+    <string name="login_usuario">Usuario</string>
+    <string name="login_pass">Contraseña</string>
+    <string name="login_tipo">Tipo</string>
+    <string name="login_registry">Registrar</string>
+    <string name="login_mostrar">Mostrar</string>
+    <string name="login_entrar">Entrar</string>
+
+
+    <string name="main">Pódometro</string>
+    <string name="main_distancia">Distancia</string>
+    <string name="main_calorias">Calorias</string>
+    <string name="main_pasos">Pasos</string>
+
+
+    <string name="recipe1">
+        Ingredientes: \n1 cucharada de aceite de canola 1-1/2 tazas de zucchini cortados a lo largo,
+        en cuartos 1/2 taza de pimiento dulce verde cortado en cubos 15 onzas de frijoles negros enteros lavados
+        y escurridos 14.5 onzas de tomates en cubos con ajo asados al fuego 3/4 de taza de agua 1 taza de arroz blanco instantáneo
+        1/2 taza de mezcla de quesos rallados cheddar y Monterey Jack Direcciones Caliente el aceite en una sartén grande a fuego medio.
+        \nAgregue los zucchini y el pimiento. Cocine durante 5 minutos, revolviendo ocasionalmente.
+        \nAñada los frijoles, los tomates sin escurrir y el agua. Aumente el fuego y cocine hasta que hierva.
+        \nAgregue el arroz y revuelva bien. Tape, retire del fuego y deje reposar durante 7 minutos o hasta que el líquido se haya absorbido.
+        \nEsparza el queso por encima y disfruta.
+    </string>
+
+    <string name="spinner_title">admin</string>
+</resources>

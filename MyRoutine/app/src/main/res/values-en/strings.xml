@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_usuario">User</string>
+    <string name="login_pass">Password</string>
+    <string name="login_tipo">Type</string>
+    <string name="login_registry">Registry</string>
+    <string name="login_mostrar">Show</string>
+    <string name="login_entrar">Enter</string>
+
+    <string name="main">Podometer</string>
+    <string name="main_distancia">Distance</string>
+    <string name="main_calorias">Calories</string>
+    <string name="main_pasos">Pasos</string>
+
+</resources>

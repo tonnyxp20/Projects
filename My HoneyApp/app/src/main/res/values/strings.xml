@@ -1,0 +1,47 @@
+<resources>
+    <string name="splash">Cargando...</string>
+    <string name="first_titulo">Insulina Diaria Total</string>
+
+    <string name="app_name">My HoneyApp</string>
+    <string name="login_user">Usuario :</string>
+    <string name="login_password">Contraseña :</string>
+    <string name="login_enter">Entrar</string>
+
+    <string name="cita_fecha">Fecha</string>
+    <string name="cita_hora">Hora</string>
+    <string name="cita_alerta">Alerta</string>
+    <string name="cita_medico">Médico</string>
+    <string name="cita_nota">Nota</string>
+    <string name="cita_guardar">Guardar Cita</string>
+
+    <string name="cuenta_info">Información Personal</string>
+    <string name="cuenta_nombre">Nombre</string>
+    <string name="cuenta_fecha">Fecha de Nacimiento</string>
+    <string name="cuenta_sexo">Sexo</string>
+    <string name="cuenta_peso">Peso</string>
+    <string name="cuenta_altura">Altura</string>
+    <string name="cuenta_imc">IMC</string>
+    <string name="cuenta_guardar">Guardar</string>
+
+    <string name="eme_titulo">En Caso de Emergencias</string>
+    <string name="eme_info">Introduce el número de telefóno al que te quieres comunicar.
+        Esto es útil para que alguien pueda recibir una llamada si estás en un apuro y no puedes buscar el número telefonico.</string>
+    <string name="eme_contacto">Contacto</string>
+    <string name="eme_guardar">Guardar Contacto</string>
+
+    <string name="med_codigo">Código de Barras</string>
+    <string name="med_nombre">Nombre del medicamento</string>
+    <string name="med_formula">Fórmula</string>
+    <string name="med_contenido">Contenido</string>
+    <string name="med_unidad">Unidad</string>
+    <string-array name="med_unidades">
+        <item>Cápsulas</item>
+        <item>Gotas</item>
+        <item>Inyecciones</item>
+        <item>Píldoras</item>
+        <item>Tabletas</item>
+        <item>Cucharaditas</item>
+    </string-array>
+    <string name="med_guardar">Guardar Medicamento</string>
+
+</resources>

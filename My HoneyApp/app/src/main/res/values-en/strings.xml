@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="splash">Loading...</string>
+    <string name="first_titulo">Total Insulin Daily</string>
+
+    <string name="login_user">User :</string>
+    <string name="login_password">Password :</string>
+    <string name="login_enter">Enter</string>
+
+    <string name="cita_fecha">Date</string>
+    <string name="cita_hora">Hour</string>
+    <string name="cita_alerta">Alert</string>
+    <string name="cita_medico">Doctor</string>
+    <string name="cita_nota">Note</string>
+    <string name="cita_guardar">Save</string>
+
+    <string name="cuenta_info">Personal Information</string>
+    <string name="cuenta_nombre">Name</string>
+    <string name="cuenta_fecha">Birthdate</string>
+    <string name="cuenta_sexo">Sex</string>
+    <string name="cuenta_peso">Weight</string>
+    <string name="cuenta_altura">Height</string>
+    <string name="cuenta_imc">IMC</string>
+    <string name="cuenta_guardar">Save</string>
+
+    <string name="eme_titulo">In Case of Emergencies</string>
+    <string name="eme_info">Enter the phone number to which you want to communicate.
+        This is useful so that someone can receive a call if you are in a hurry and can not find the phone number..</string>
+    <string name="eme_contacto">Contact</string>
+    <string name="eme_guardar">Save</string>
+
+    <string name="med_codigo">Barcode</string>
+    <string name="med_nombre">Name of medication</string>
+    <string name="med_formula">Formula</string>
+    <string name="med_contenido">Content</string>
+    <string name="med_unidad">Unity</string>
+    <string-array name="med_unidades">
+        <item>Capsules</item>
+        <item>Drops</item>
+        <item>Injections</item>
+        <item>Pills</item>
+        <item>Tablets</item>
+        <item>Teaspoons</item>
+    </string-array>
+    <string name="med_guardar">Save</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_inicio"
+            android:icon="@drawable/ic_house"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/menu_cuenta"
+            android:icon="@drawable/ic_account_box"
+            android:title="Mi Cuenta" />
+        <item
+            android:id="@+id/menu_emergencias"
+            android:icon="@drawable/ic_warning"
+            android:title="Emergencias" />
+        <item
+            android:id="@+id/menu_configuracion"
+            android:icon="@drawable/ic_settings"
+            android:title="Configuración" />
+    </group>
+
+    <item android:title="Registro" >
+        <menu>
+            <item
+                android:id="@+id/menu_opcion_medicamentos"
+                android:icon="@android:drawable/ic_dialog_dialer"
+                android:title="Medicamentos" />
+
+            <item
+                android:id="@+id/menu_opcion_citas"
+                android:icon="@android:drawable/ic_dialog_dialer"
+                android:title="Citas" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesingApp</string>
+    <string name="navOptions_emergency">Emergencias</string>
+    <string name="navOptions_medicines">Medicamentos</string>
+    <string name="navOptions_citation">Citas Médicas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_main"
+            android:icon="@drawable/ic_emergency"
+            android:title="Inicio"
+            />
+
+        <item
+            android:id="@+id/menu_emergency"
+            android:icon="@drawable/ic_emergency"
+            android:title="@string/navOptions_emergency"
+            />
+
+        <item
+            android:id="@+id/menu_medicines"
+            android:icon="@drawable/ic_emergency"
+            android:title="@string/navOptions_medicines"
+            />
+
+        <item
+            android:id="@+id/menu_citation"
+            android:icon="@drawable/ic_emergency"
+            android:title="@string/navOptions_citation"
+            />
+    </group>
+
+    <item android:title="Opciones" >
+        <menu>
+            <item
+                android:id="@+id/menu_opcion_1"
+                android:icon="@android:drawable/ic_dialog_dialer"
+                android:title="Configuración" />
+
+            <item
+                android:id="@+id/menu_opcion_2"
+                android:icon="@android:drawable/ic_dialog_dialer"
+                android:title="Acerca de" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navOptions_emergency">Emergencies</string>
+    <string name="navOptions_medicines">Medicines</string>
+    <string name="navOptions_citation">Citation</string>
+</resources>
